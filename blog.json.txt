@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "The Rise of JavaScript Frameworks",
+        "content": "JavaScript has become one of the most popular languages in web development, and with it, frameworks like React, Angular, and Vue.js have gained widespread usage. This blog explores the reasons behind their popularity.",
+        "author": "John Doe",
+        "date": "2024-09-12",
+        "tags": ["JavaScript", "Web Development", "Frameworks"],
+        "views": 250,
+        "comments": [
+            {
+                "user": "Jane Doe",
+                "comment": "Great post! I really appreciate the breakdown of each framework."
+            },
+            {
+                "user": "Mike Ross",
+                "comment": "Very informative! I prefer Vue.js but found this comparison helpful."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "A Beginner's Guide to MongoDB",
+        "content": "MongoDB is a popular NoSQL database that offers flexibility and scalability. In this guide, we cover the basics of MongoDB and how to get started with it in your applications.",
+        "author": "Alice Smith",
+        "date": "2024-09-10",
+        "tags": ["MongoDB", "Database", "NoSQL"],
+        "views": 180,
+        "comments": [
+            {
+                "user": "John Doe",
+                "comment": "This was a fantastic introduction. MongoDB seems really powerful!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Deploying a Node.js App to Heroku",
+        "content": "In this blog, we'll go through the process of deploying a Node.js app to Heroku, from setting up your environment to configuring environment variables for production.",
+        "author": "Robert Johnson",
+        "date": "2024-09-08",
+        "tags": ["Node.js", "Heroku", "Deployment"],
+        "views": 320,
+        "comments": [
+            {
+                "user": "Sarah Connor",
+                "comment": "Thanks for the step-by-step guide! Deploying my app was much easier after following your instructions."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Building RESTful APIs with Express.js",
+        "content": "Express.js is a powerful tool for building RESTful APIs in Node.js. This blog post walks you through creating an API with Express.js, including setting up routes and middleware.",
+        "author": "Emily White",
+        "date": "2024-09-06",
+        "tags": ["Node.js", "Express.js", "API"],
+        "views": 270,
+        "comments": [
+            {
+                "user": "Mark Spencer",
+                "comment": "Really helpful. I followed along with the example and created my first API!"
+            }
+        ]
+    }
+]
